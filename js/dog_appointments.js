@@ -1,0 +1,15 @@
+const dogAppointments = [
+  {"Month": 'January', "Avg. Grooming Appointments": 30.0, "Avg. Boarding Appointments": 7.0},
+  {"Month": 'February', "Avg. Grooming Appointments": 56.0, "Avg. Boarding Appointments": 17.0},
+  {"Month": 'March', "Avg. Grooming Appointments": 25.0, "Avg. Boarding Appointments": 21.0},
+  {"Month": 'April', "Avg. Grooming Appointments": 47.0, "Avg. Boarding Appointments": 38.0},
+  {"Month": 'May', "Avg. Grooming Appointments": 53.0, "Avg. Boarding Appointments": 26.0},
+  {"Month": 'June', "Avg. Grooming Appointments": 35.0, "Avg. Boarding Appointments": 20.0},
+  {"Month": 'July', "Avg. Grooming Appointments": 16.0, "Avg. Boarding Appointments": 30.0},
+  {"Month": 'August', "Avg. Grooming Appointments": 57.0, "Avg. Boarding Appointments": 12.0},
+  {"Month": 'September', "Avg. Grooming Appointments": 28.0, "Avg. Boarding Appointments": 22.0},
+  {"Month": 'October', "Avg. Grooming Appointments": 53.0, "Avg. Boarding Appointments": 18.0},
+  {"Month": 'November', "Avg. Grooming Appointments": 17.0, "Avg. Boarding Appointments": 30.0},
+  {"Month": 'December', "Avg. Grooming Appointments": 22.0, "Avg. Boarding Appointments": 21.0},
+  {"Month": 'Yearly Average', "Avg. Grooming Appointments": 36.583333333333336, "Avg. Boarding Appointments": 21.83333333333333},
+];

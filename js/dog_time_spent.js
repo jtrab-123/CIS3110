@@ -1,3 +1,4 @@
+const dogTimeSpent = [
   {"Month": 'January', "Avg. Grooming Time (hours)": 3.6207317609258487, "Avg. Boarding Time (hours)": 5.244061180429994},
   {"Month": 'February', "Avg. Grooming Time (hours)": 1.5423492886826162, "Avg. Boarding Time (hours)": 19.68845202950581},
   {"Month": 'March', "Avg. Grooming Time (hours)": 2.1272811819219983, "Avg. Boarding Time (hours)": 15.20048596171016},

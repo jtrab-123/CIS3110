@@ -1,0 +1,15 @@
+const dogRevenue = [
+  {"Month": 'January', "Grooming Revenue": 2869, "Boarding Revenue": 6716, "Total Revenue": 9585},
+  {"Month": 'February', "Grooming Revenue": 3983, "Boarding Revenue": 2934, "Total Revenue": 6917},
+  {"Month": 'March', "Grooming Revenue": 4708, "Boarding Revenue": 5543, "Total Revenue": 10251},
+  {"Month": 'April', "Grooming Revenue": 1527, "Boarding Revenue": 3452, "Total Revenue": 4979},
+  {"Month": 'May', "Grooming Revenue": 1390, "Boarding Revenue": 5381, "Total Revenue": 6771},
+  {"Month": 'June', "Grooming Revenue": 3710, "Boarding Revenue": 2610, "Total Revenue": 6320},
+  {"Month": 'July', "Grooming Revenue": 1694, "Boarding Revenue": 3305, "Total Revenue": 4999},
+  {"Month": 'August', "Grooming Revenue": 3413, "Boarding Revenue": 4490, "Total Revenue": 7903},
+  {"Month": 'September', "Grooming Revenue": 3524, "Boarding Revenue": 7777, "Total Revenue": 11301},
+  {"Month": 'October', "Grooming Revenue": 3237, "Boarding Revenue": 6546, "Total Revenue": 9783},
+  {"Month": 'November', "Grooming Revenue": 1483, "Boarding Revenue": 3077, "Total Revenue": 4560},
+  {"Month": 'December', "Grooming Revenue": 3843, "Boarding Revenue": 2854, "Total Revenue": 6697},
+  {"Month": 'Yearly Total', "Grooming Revenue": 35381, "Boarding Revenue": 54685, "Total Revenue": 90066},
+];
